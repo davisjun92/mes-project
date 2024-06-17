@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your global styles (e.g., App.vue or main.css) */
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
