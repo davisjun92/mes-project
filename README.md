@@ -11,16 +11,16 @@ This project is a simplified MES module for tracking production and managing qua
 - ## Setup and Running
 
 1. After download and open the folder
-   Backend:
-   Path: eg.\mes-project\mes-backend> 
-   cd mes-backend/src
-   node app.js
-   http://localhost:8081/dashboard
-   
-   Frontend:
-   Path: eg. \mes-project\mes-frontend> 
-   cd mes-frontend
-   npm install
-   npm run dev
 
-   http://localhost:3000/
+   Backend:
+   - Path: eg.\mes-project\mes-backend>
+   - cd mes-backend/src
+   - node app.js
+   - http://localhost:8081/dashboard
+   
+   Frontend:   
+   - Path: eg. \mes-project\mes-frontend>   
+   - cd mes-frontend   
+   - npm install   
+   - npm run dev
+   - http://localhost:3000/
